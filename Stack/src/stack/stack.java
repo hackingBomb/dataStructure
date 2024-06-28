@@ -1,3 +1,5 @@
+package stack;
+
 public class stack {
     private int top = -1;
     private Object[] stack;

@@ -1,0 +1,25 @@
+
+”	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¡øú8ÿ©æ÷…2J$dfe0f276-0c96-4b5e-9def-f002c5b21c98
+”	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‡Û›8ÿ©æ÷…2J$19069a41-c4d4-4dee-9346-aad2eced2edc
+™	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ğš›şÿÿÿÿ8ÿ©æ÷…2J$48b3fe6a-e9a0-4e43-b133-3a8b850db34a
+“	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùĞ»48ÿ©æ÷…2J$34220698-fbb6-486f-ad67-e0b5fcb94ee6
+™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæ‘Ëıÿÿÿÿ8ÿ©æ÷…2J$8e01b023-ebe9-4956-9abc-05832588c1ed
+”	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‡Û›8ÿ©æ÷…2J$1fa460a0-4cc9-4b19-a186-3cb0d41fd5af
+”	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦È‹§8ÿ©æ÷…2J$e76956dd-d764-48e8-8cca-a2ede27772f7
+™	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¬ÊÑşÿÿÿÿ8ÿ©æ÷…2J$e0b99ea2-a36a-40ec-8933-37a29f182510
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ö‚¢8ÿ©æ÷…2J$b4602b64-7ae6-475f-94e7-5b8e12432fc3
+	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(êÑ¡Íüÿÿÿÿ8„ªæ÷…2J$d7d270e7-5f3c-4f7e-91ef-65a915819c04
+	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(êÑ¡Íüÿÿÿÿ8„ªæ÷…2J$95cf167b-9250-42a9-ab50-d3c7bcd3349f
+¡	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ö‘ıàıÿÿÿÿ8„ªæ÷…2J$3f0de6ad-432c-4f36-aa0e-02daba9f574f
+š
+java:S3776f"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(­øÇİúÿÿÿÿ8’ªæ÷…2J$77920927-7013-4974-91ca-36f19ce46ce6
+›
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(æŸÅ˜ÿÿÿÿÿ8•ªæ÷…2J$a905fd9e-9087-4360-9027-ba7eb237aba2
+‘	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¡øú8˜ªæ÷…2J$1388b049-2cfd-46e1-8f4d-bef33b31c1f3
+–	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôæ‘Ëıÿÿÿÿ8˜ªæ÷…2J$e8d74170-d933-4ed6-93ad-e47e59bad769
+n	java:S106Ì"+Replace this use of System.out by a logger.(Éğ8™ªæ÷…2J$ab67a375-7252-4b78-bbcf-052246b35d49
+s	java:S106Î"+Replace this use of System.out by a logger.(Œ“¡Æıÿÿÿÿ8™ªæ÷…2J$3510b713-a398-41fa-b51b-6472e70d9a14
+s	java:S106Ñ"+Replace this use of System.out by a logger.(üøŒ„ûÿÿÿÿ8™ªæ÷…2J$5b97b416-0907-468a-9831-255b5c4dd38e
+s	java:S106Ö"+Replace this use of System.out by a logger.(¨­Ñäøÿÿÿÿ8™ªæ÷…2J$186c6170-7cff-407c-8420-f753f9fbf06d
+s	java:S106â"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8šªæ÷…2J$74488148-25fb-43f4-96a9-96c14ca7a0f8
+s	java:S106ê"+Replace this use of System.out by a logger.(µèÂ†üÿÿÿÿ8šªæ÷…2J$65415955-4046-4223-a6cd-d34c5155823b

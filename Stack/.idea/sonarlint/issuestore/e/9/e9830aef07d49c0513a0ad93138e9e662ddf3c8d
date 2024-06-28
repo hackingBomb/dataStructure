@@ -1,0 +1,15 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»»Š¾üÿÿÿÿJ$d6aa69a9-3cee-4ef0-8fe9-42abf1840c5d
+›	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ãéº¦8ëù ÷…2J$b6695f22-a3d7-4b9f-aeba-dc6978ed85d7
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8ê¿©÷…2J$13bbd700-579f-460d-a1f3-44e710f6bb7c
+r	java:S106/"+Replace this use of System.out by a logger.(·ê„Îúÿÿÿÿ8ÿù ÷…2J$03d3b470-d387-4bfc-9cd3-290191e5cc6e
+r	java:S1068"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8€ú ÷…2J$453d284b-1cfa-431e-a8d1-fb2c6183fd17
+r	java:S106>"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ú ÷…2J$47953548-547a-4fd9-a24d-66e8cd9d248f
+r	java:S106D"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ú ÷…2J$a9cbe4ce-d2cc-405f-a558-a086f9e90ecb
+r	java:S106J"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‚ú ÷…2J$21bbea5e-663a-43e2-8f2f-8f208afa2d5a
+r	java:S106l"+Replace this use of System.out by a logger.(µèÂ†üÿÿÿÿ8‚ú ÷…2J$84355091-d423-4234-bf0b-5af3702f1060
+m	java:S106q"+Replace this use of System.out by a logger.(Éğ8âŒ¤÷…2J$5f33b2db-9f42-4940-8cd6-4df5671206f6
+r	java:S106s"+Replace this use of System.out by a logger.(Œ“¡Æıÿÿÿÿ8âŒ¤÷…2J$981f3db6-b961-42ba-b6e8-7799275842ba
+r	java:S106v"+Replace this use of System.out by a logger.(üøŒ„ûÿÿÿÿ8âŒ¤÷…2J$6c630cbd-cbf3-45e5-9578-3f8f99c4e3d6
+r	java:S106z"+Replace this use of System.out by a logger.(Ù°ŒÌüÿÿÿÿ8âŒ¤÷…2J$b2f09cc2-4655-469b-a2d0-2503d39bea22

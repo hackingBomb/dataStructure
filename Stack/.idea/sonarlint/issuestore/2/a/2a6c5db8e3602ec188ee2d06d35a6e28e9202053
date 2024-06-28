@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞíÈ‘8„…Øö…2J$1cd2ea8a-3a18-43ac-8148-3919bcd7d2a4
+W
+java:S1700"Rename field "stack"(®ÙĞú8„…Øö…2J$9127354f-b8e8-4c6a-bc7a-8be324f93fda
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(»ûÁ½8……Øö…2J$0982c330-f0fa-4749-9c18-011bdd5fdc59
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(“ÜÏ­ûÿÿÿÿ8……Øö…2J$b8fee45a-85da-446c-9f89-fb16f9a684de
+r	java:S106#"+Replace this use of System.out by a logger.(’Üõıÿÿÿÿ8‹…Øö…2J$7a981ab8-487a-430b-af83-baeab78985b4
+r	java:S106%"+Replace this use of System.out by a logger.(µ…›øúÿÿÿÿ8‹…Øö…2J$301cea69-d6a5-45b6-8710-be7b8869581b

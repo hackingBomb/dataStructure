@@ -1,5 +1,22 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾²ğ¶8ÌÍÜö…2
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹éÂ¥ÿÿÿÿÿJ$ae809f08-1973-4eff-b2e4-1e972be4a0fc
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¾²ğ¶8ÍÍÜö…2
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è¯‹øÿÿÿÿ8óù†÷…2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹éÂ¥ÿÿÿÿÿ8ä“ƒ÷…2J$2dc18326-f5dd-40a2-83ce-fbd3f8001f99
+u
+java:S1135"2Complete the task associated to this TODO comment.(•æÅÑ8‚¸„÷…2J$b6000518-4ba8-4d79-ade1-47c40b2e74ce
+m	java:S106	"+Replace this use of System.out by a logger.(‚ÎšÛ8‚¸„÷…2J$b715e7e7-c9ae-41c4-9f59-d7131827b5e8
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Áíæª8‚¸„÷…2J$e190ec1d-e6ba-42f2-a139-ca12c9cc800e
+m	java:S106"+Replace this use of System.out by a logger.(Áíæª8‚¸„÷…2J$10d4acf2-b55b-44fc-b03d-7877c562c919
+u
+java:S1135"2Complete the task associated to this TODO comment.(ÛÕçÀ8‚¸„÷…2J$9881c837-b523-4479-b014-de21ecdc3c5f
+m	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8ƒ¸„÷…2J$a1043c5c-a4a0-47fb-a197-ce7830c5218e
+z
+java:S1135"2Complete the task associated to this TODO comment.(¼ú£úÿÿÿÿ8ƒ¸„÷…2J$4ae58766-c110-4f5d-b706-ab93ac40953d
+r	java:S106"+Replace this use of System.out by a logger.(®´ˆæúÿÿÿÿ8ƒ¸„÷…2J$d045563c-93ee-4904-b3d4-44531f67bc73
+z
+java:S1135"2Complete the task associated to this TODO comment.(‚ı¹’ûÿÿÿÿ8…¸„÷…2J$e266d9f3-08c1-492f-8681-77c0968a125f
+u
+java:S1135"2Complete the task associated to this TODO comment.(–·»Æ8†¸„÷…2J$22d74d6d-1240-40e4-af01-b5c0a22bf1d1
+r	java:S106!"+Replace this use of System.out by a logger.(åÿ¶Öıÿÿÿÿ8†¸„÷…2J$e7d8e9b1-1e22-488c-a640-480b67338804
+z
+java:S1135*"2Complete the task associated to this TODO comment.(ÍÜéÈÿÿÿÿÿ8‡¸„÷…2J$5f143fb1-19bf-450a-a6f8-581009c19b20

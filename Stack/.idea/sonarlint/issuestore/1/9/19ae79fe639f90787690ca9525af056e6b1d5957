@@ -1,0 +1,18 @@
+
+™	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÓÜÈşÿÿÿÿ8ÁşÑ÷…2J$7d030832-545a-4e8c-83f8-db47213b1dbf
+™	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ğš›şÿÿÿÿ8ÂşÑ÷…2J$549c9d5b-35fb-4a63-96ee-70e660db442a
+“	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùĞ»48ÂşÑ÷…2J$b6c6ba34-7cf9-49c9-9266-7083623b515a
+™	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­íÖÛüÿÿÿÿ8ÂşÑ÷…2J$3d53dc40-49cb-4042-8674-07a0faadd3c0
+”	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦È‹§8ÂşÑ÷…2J$d0180995-f33c-42f6-8eac-dd973ee1f8ef
+™	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¬ÊÑşÿÿÿÿ8ÂşÑ÷…2J$7167ca36-e366-4190-9069-85439ea119f0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øİµÅúÿÿÿÿ8ÂşÑ÷…2J$9e31309f-cd9e-4038-8ead-b109bd23ab8e
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(êÑ¡Íüÿÿÿÿ8ÅşÑ÷…2J$0502f741-eb42-4cb3-8469-54a9a41be4d1
+	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(êÑ¡Íüÿÿÿÿ8ÅşÑ÷…2J$7fd5e278-19bd-4049-ae58-bac036a87541
+–	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÓÜÈşÿÿÿÿ8ÑşÑ÷…2J$65b32590-6cec-4235-9616-1105093a2c1c
+–	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­íÖÛüÿÿÿÿ8ÑşÑ÷…2J$4af38ac3-fc1d-430f-8292-03000ac36059
+n	java:S106î"+Replace this use of System.out by a logger.(Éğ8ÔşÑ÷…2J$0acc6caa-92a0-471d-8597-44b45f42c1d4
+s	java:S106ğ"+Replace this use of System.out by a logger.(Œ“¡Æıÿÿÿÿ8ÔşÑ÷…2J$035994bd-3b95-4e28-a7e7-fc2443cf86b8
+s	java:S106ó"+Replace this use of System.out by a logger.(üøŒ„ûÿÿÿÿ8ÔşÑ÷…2J$02796299-0292-4f00-8fca-e35db060bfda
+n	java:S106÷"+Replace this use of System.out by a logger.(€ÚşØ8ÔşÑ÷…2J$4341b62e-2697-4621-984a-e92efb351f65
+s	java:S106ƒ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ÖşÑ÷…2J$c560ec2e-e1b0-4234-b9e4-ac80c2da1eb6
+s	java:S106Œ"+Replace this use of System.out by a logger.(µèÂ†üÿÿÿÿ8ÖşÑ÷…2J$c03d66a5-6c6b-454f-a26f-62d321a9ab06
