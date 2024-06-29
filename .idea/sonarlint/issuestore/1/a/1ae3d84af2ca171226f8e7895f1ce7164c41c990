@@ -1,0 +1,7 @@
+
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8‰–Ã‘†2J$02a90a8a-0920-4fc9-b99b-4ec41511389c
+m	java:S106"+Replace this use of System.out by a logger.(Ğ†ïŠ8‹–Ã‘†2J$72b4556a-72b8-4f3b-bf77-4c01fbd28a39
+G	java:S106"+Replace this use of System.out by a logger.(¢˜ğ‡8®Æ‘†2
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8®Æ‘†2

@@ -1,8 +1,8 @@
 
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞíÈ‘
-*
-java:S1700"Rename field "stack"(®ÙĞú
-[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(»ûÁ½
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(“ÜÏ­ûÿÿÿÿ
-E	java:S106#"+Replace this use of System.out by a logger.(’Üõıÿÿÿÿ
-E	java:S106%"+Replace this use of System.out by a logger.(µ…›øúÿÿÿÿ
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞíÈ‘J$96840f4c-0bcb-44b9-a7f4-9c1304f3e026
+P
+java:S1700"Rename field "stack"(®ÙĞúJ$cd11e80f-a520-42dd-92ed-8a3b9591bae9
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(»ûÁ½J$024ab357-ca39-4114-94d6-60e5e0df8c6a
+†	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(“ÜÏ­ûÿÿÿÿJ$a1884188-ae2b-4078-b0ce-858bd9356b8c
+k	java:S106'"+Replace this use of System.out by a logger.(’ÜõıÿÿÿÿJ$0f9b7bac-6c67-4146-867e-1ff4718a4f84
+k	java:S106)"+Replace this use of System.out by a logger.(µ…›øúÿÿÿÿJ$1b00248b-696a-4759-8323-e85168355f61

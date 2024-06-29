@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è¯‹øÿÿÿÿJ$97df586d-8c47-4178-97cb-98104356cfcc
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹éÂ¥ÿÿÿÿÿJ$7c9496c5-ba17-49ed-9bd0-76748f92f35f
+f	java:S106	"+Replace this use of System.out by a logger.(‚ÎšÛJ$e515b2b7-b205-478c-8cb4-3e396639d304
+
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÁíæªJ$3d74f809-e819-4993-ac68-1faae9708481
+f	java:S106"+Replace this use of System.out by a logger.(ÁíæªJ$4947f6fa-40e3-41dd-97f3-e62f6f3b5461
+f	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛJ$b2848c86-79e2-42ca-aef1-c684b1b7d52d
+k	java:S106"+Replace this use of System.out by a logger.(®´ˆæúÿÿÿÿJ$29b643d5-eab5-4c70-aea6-f6fecc0b737f
+k	java:S106!"+Replace this use of System.out by a logger.(åÿ¶ÖıÿÿÿÿJ$38d7de13-3ce1-4c03-b1ee-c106041f5eeb

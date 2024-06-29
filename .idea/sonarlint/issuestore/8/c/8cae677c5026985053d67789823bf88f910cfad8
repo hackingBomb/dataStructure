@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÑº 8ŸÌß‘†2J$fc9ca53b-c4c9-4e52-b8b2-e84e5e24bd9f
+q
+java:S1845["ORename method "visit" to prevent any misunderstanding/clash with field "visit".(’”¤£ùÿÿÿÿ8¿©æ‘†2
+r	java:S1061"+Replace this use of System.out by a logger.(ƒÚÌŠûÿÿÿÿ8¤Ìß‘†2J$adf149ec-9bec-4595-9120-eba2d1b0d270
+r	java:S1063"+Replace this use of System.out by a logger.(¶´›§þÿÿÿÿ8¥Ìß‘†2J$4a492ed3-ed69-4ba2-9744-4690465ed5fa
+m	java:S106F"+Replace this use of System.out by a logger.(³áÁ¸8¥Ìß‘†2J$00d9a71a-da22-41d7-9c3b-5a637c116630
+L	java:S106H"+Replace this use of System.out by a logger.(¶´›§þÿÿÿÿ8Å©æ‘†2
+s
+java:S3457\"Q%n should be used in place of \n to produce the platform-specific line separator.(ãéÍˆøÿÿÿÿ8Ç©æ‘†2
+L	java:S106\"+Replace this use of System.out by a logger.(ãéÍˆøÿÿÿÿ8Ç©æ‘†2
+L	java:S106a"+Replace this use of System.out by a logger.(ÿ¨•Ïþÿÿÿÿ8Ç©æ‘†2
+G	java:S106e"+Replace this use of System.out by a logger.(Ðü…™8È©æ‘†2
+G	java:S106i"+Replace this use of System.out by a logger.(Êž¾Ò8È©æ‘†2

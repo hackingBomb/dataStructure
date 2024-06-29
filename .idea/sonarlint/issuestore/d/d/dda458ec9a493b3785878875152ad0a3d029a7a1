@@ -1,0 +1,25 @@
+
+P
+java:S1121.".Extract the assignment out of this expression.(ùŸ‹‰ûÿÿÿÿ8£Ó§‘†2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹“ûÈúÿÿÿÿ8£Ó§‘†2
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ØõœD8¦Ó§‘†2
+z	java:S135E"YReduce the total number of break and continue statements in this loop to use at most one.(¬ï¥«üÿÿÿÿ8©Ó§‘†2
+z	java:S135]"YReduce the total number of break and continue statements in this loop to use at most one.(¬ï¥«üÿÿÿÿ8ªÓ§‘†2
+n
+java:S1192â"KDefine a constant instead of duplicating this literal "| %d | %s
+" 3 times.(êË”ùÿÿÿÿ8ªÓ§‘†2
+f
+java:S3358!"DExtract this nested ternary operation into an independent statement.(†ÁŸüÿÿÿÿ8¶Ó§‘†2
+i
+java:S1871J"LThis branch's code block is the same as the block for the branch on line 71.(Êü·£8¹Ó§‘†2
+i
+java:S1871c"LThis branch's code block is the same as the block for the branch on line 95.(öîî8»Ó§‘†2
+H	java:S106ß"+Replace this use of System.out by a logger.(±ˆâ©8ÅÓ§‘†2
+t
+java:S3457â"Q%n should be used in place of \n to produce the platform-specific line separator.(êË”ùÿÿÿÿ8ÅÓ§‘†2
+M	java:S106â"+Replace this use of System.out by a logger.(êË”ùÿÿÿÿ8ÅÓ§‘†2
+M	java:S106ä"+Replace this use of System.out by a logger.(ıœóÿÿÿÿÿ8ÅÓ§‘†2
+n
+java:S3457æ"Q%n should be used in place of \n to produce the platform-specific line separator.(àÕë8ÆÓ§‘†2
+G	java:S106æ"+Replace this use of System.out by a logger.(àÕë8ÆÓ§‘†2
+H	java:S106é"+Replace this use of System.out by a logger.(ĞÛâï8ÆÓ§‘†2

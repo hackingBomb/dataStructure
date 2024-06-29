@@ -1,0 +1,17 @@
+
+P
+java:S1121+".Extract the assignment out of this expression.(ùŸ‹‰ûÿÿÿÿ8ÍŞ±‘†2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ïæä¥8ÍŞ±‘†2
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ØõœD8ÑŞ±‘†2
+f
+java:S3358#"DExtract this nested ternary operation into an independent statement.(†ÁŸüÿÿÿÿ8ßŞ±‘†2
+_
+java:S18549"=Remove this useless assignment to local variable "!unknown!".(¥ÚÆøÿÿÿÿ8áŞ±‘†2
+_
+java:S1854d"=Remove this useless assignment to local variable "!unknown!".(¥ÚÆøÿÿÿÿ8æŞ±‘†2
+`
+java:S1854…"=Remove this useless assignment to local variable "!unknown!".(Ô®øüÿÿÿÿ8èŞ±‘†2
+H	java:S106"+Replace this use of System.out by a logger.(™Û¶8êŞ±‘†2
+H	java:S106‘"+Replace this use of System.out by a logger.(™“âÖ8ëŞ±‘†2
+G	java:S106“"+Replace this use of System.out by a logger.(àÕë8ëŞ±‘†2
+H	java:S106–"+Replace this use of System.out by a logger.(™Û¶8ëŞ±‘†2

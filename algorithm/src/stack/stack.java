@@ -8,6 +8,10 @@ public class stack {
         stack = new Object[size];
     }
 
+    public stack(){
+        stack = new Object[5];
+    }
+
     public boolean isEmpty(){
         return top == -1;
     }
@@ -43,7 +47,7 @@ public class stack {
     public String toString(){
         StringBuilder sb = new StringBuilder();
         sb.append("Bottom | ");
-        for(int i = 0; i < top; i++){
+        for(int i = 0; i <= top; i++){
             sb.append(stack[i].toString() + " | ");
         }
         sb.append("Top");

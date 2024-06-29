@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ß ıÿÿÿÿ8Ô¦å‘†2
+q
+java:S1845m"ORename method "visit" to prevent any misunderstanding/clash with field "visit".(’”¤£ùÿÿÿÿ8×¦å‘†2
+{
+java:S22344"YParameters to addEdge have the same names but not the same order as the method arguments.(¯’¢Ãıÿÿÿÿ8Ü¦å‘†2
+L	java:S106D"+Replace this use of System.out by a logger.(¢ÿî½şÿÿÿÿ8İ¦å‘†2
+L	java:S106F"+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ8Ş¦å‘†2
+L	java:S106Y"+Replace this use of System.out by a logger.(Ôº©õüÿÿÿÿ8ß¦å‘†2
+L	java:S106["+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ8ß¦å‘†2
+s
+java:S3457n"Q%n should be used in place of \n to produce the platform-specific line separator.(ãéÍˆøÿÿÿÿ8â¦å‘†2
+L	java:S106n"+Replace this use of System.out by a logger.(ãéÍˆøÿÿÿÿ8â¦å‘†2
+L	java:S106s"+Replace this use of System.out by a logger.(ãÙ¿øÿÿÿÿ8â¦å‘†2
+L	java:S106v"+Replace this use of System.out by a logger.(–ÇÊ‚ıÿÿÿÿ8â¦å‘†2
+L	java:S106y"+Replace this use of System.out by a logger.(§˜Ëàüÿÿÿÿ8ã¦å‘†2

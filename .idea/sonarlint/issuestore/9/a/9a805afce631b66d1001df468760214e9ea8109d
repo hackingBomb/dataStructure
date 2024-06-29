@@ -1,0 +1,24 @@
+
+m	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßá¸ë8€ÏÒ‘†2
+m	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßá¸ë8ÏÒ‘†2
+n	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸ù¢8ÏÒ‘†2
+n	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã˜Ë¶8ÏÒ‘†2
+n	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åıü8ÏÒ‘†2
+s	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÕŸÿÿÿÿÿ8ÏÒ‘†2
+s	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨÷®´øÿÿÿÿ8ÏÒ‘†2
+n	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã˜Ë¶8ÏÒ‘†2
+s	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¿ÜØøÿÿÿÿ8ÏÒ‘†2
+s	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¯Æûÿÿÿÿ8ÏÒ‘†2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆóëÓ8ÏÒ‘†2
+{	java:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(Ö‘ıàıÿÿÿÿ8ƒÏÒ‘†2
+o
+java:S3776}"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¥ÑÚ½8ÏÒ‘†2
+9
+java:S3626€"Remove this redundant jump.(ûÁİ…8ÏÒ‘†2
+p
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÆÆÚ8ÏÒ‘†2
+u
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.( ÒĞúÿÿÿÿ8”ÏÒ‘†2
+k	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¸ù¢8•ÏÒ‘†2
+p	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨÷®´øÿÿÿÿ8–ÏÒ‘†2
+G	java:S106›"+Replace this use of System.out by a logger.(’²48—ÏÒ‘†2
